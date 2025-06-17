@@ -3,8 +3,6 @@ pandas
 folium
 matplotlib
 numpy
-BytesIO
-base64
 json
 branca
 voila
