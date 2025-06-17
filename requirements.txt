@@ -3,6 +3,5 @@ pandas
 folium
 matplotlib
 numpy
-json
 branca
 voila
