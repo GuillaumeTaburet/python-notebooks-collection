@@ -4,4 +4,5 @@ folium
 matplotlib
 numpy
 branca
+cartiflette
 voila
